@@ -1,0 +1,15 @@
+HOMINHTUAN95 - AUTO 8 CUA SO
+
+1. Upload Hominhtuan95.py va thu muc .github/workflows len GitHub repository.
+2. GitHub > Actions > Build Hominhtuan95 8 Windows EXE > Run workflow.
+3. Tai Artifacts, giai nen va chay Hominhtuan95.exe.
+4. Mo game, nhan Lam moi danh sach cua so, chon tung cua so game.
+5. Chon Tab / Skill 1-8 va nhap chu ky bang giay (0.1 den 10800 giay).
+6. Nhan BAT AUTO rieng tung o; nhan TAT AUTO de dung o do.
+
+Khong gioi han tong thoi gian Auto chay. 3 gio chi la gioi han toi da
+cho CHU KY cua mot phim, khong phai gioi han thoi gian hoat dong.
+Kich thuoc giao dien xap xi 16x20 cm tren man hinh 96 DPI, co thanh cuon.
+Game co the khong nhan PostMessage khi chay nen; can thu thuc te.
+Khong co HWID hay Macro trong ban nay.
+Lien he Zalo TuanHo 0398438721.
